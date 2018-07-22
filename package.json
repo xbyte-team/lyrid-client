@@ -1,6 +1,6 @@
 {
   "name": "lyrid",
-  "version": "1",
+  "version": "0.0.1",
   "description": "Shortcut for lyrids client",
   "main": "index.js",
   "scripts": {
