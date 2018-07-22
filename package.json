@@ -1,0 +1,25 @@
+{
+  "name": "lyrid",
+  "version": "1",
+  "description": "Shortcut for lyrids client",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xbyte-team/lyrid-client.git"
+  },
+  "keywords": [
+    "lyrids"
+  ],
+  "author": "Amed Kino - XByte.Team",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/xbyte-team/lyrid-client/issues"
+  },
+  "homepage": "https://github.com/xbyte-team/lyrid-client#readme",
+  "dependencies": {
+    "lyrids": "0.0.1"
+  }
+}
